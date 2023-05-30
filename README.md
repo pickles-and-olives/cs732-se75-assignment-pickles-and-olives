@@ -1,10 +1,14 @@
 # Tech Demo: Hello Vue
 
-COMPSCI 732 / SOFTENG 750
+This assignment tasked us to explore a new web development technology of our choice, and prepare a codebase and demonstration video which would allow our classmates to understand and get a basic project started using that technology. 
 
-Melissa McFadzien
+## Demo video: 
 
-mmcf647
+(Opens in Youtube)
+
+<a href='https://youtu.be/1mfg5mXu284' target='_blank' >
+<img src='https://img.youtube.com/vi/1mfg5mXu284/0.jpg'/>
+  </a>
 
 ## Repo contents:
 ### Vue Reading List: 
